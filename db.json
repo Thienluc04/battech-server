@@ -412,5 +412,63 @@
       "group": "Backend",
       "type": "Fulltime"
     }
+  ],
+  "workLocations": [
+    {
+      "text": "Tất cả",
+      "address": "All"
+    },
+    {
+      "text": "Hà Nội",
+      "address": "Hà Nội"
+    },
+    {
+      "text": "Hồ Chí Minh",
+      "address": "Hồ Chí Minh"
+    }
+  ],
+  "workCategories": [
+    {
+      "text": "Tất cả",
+      "group": "All"
+    },
+    {
+      "text": "Frontend",
+      "group": "Frontend"
+    },
+    {
+      "text": "Backend",
+      "group": "Backend"
+    },
+    {
+      "text": "Product Design",
+      "group": "Product Design"
+    },
+    {
+      "text": "Tester",
+      "group": "Tester"
+    },
+    {
+      "text": "HR",
+      "group": "HR"
+    }
+  ],
+  "workTypes": [
+    {
+      "text": "Tất cả",
+      "type": "All"
+    },
+    {
+      "text": "Toàn thời gian",
+      "type": "Fulltime"
+    },
+    {
+      "text": "Bán thời gian",
+      "type": "Parttime"
+    },
+    {
+      "text": "Thực tập sinh",
+      "type": "Intern"
+    }
   ]
 }
