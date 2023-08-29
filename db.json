@@ -10,7 +10,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/newest%2Fnewest-img-1.png?alt=media&token=1da4f0e2-753a-42c8-b0be-f6b0222745c9",
       "isNewest": true,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 2,
@@ -22,7 +39,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/newest%2Fnewest-img-2.png?alt=media&token=cb6bb939-a4ed-4254-882a-b89fc1dda030",
       "isNewest": true,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 3,
@@ -34,7 +68,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/newest%2Fnewest-img-3.png?alt=media&token=24610805-a017-4b41-bd60-9087c0d47794",
       "isNewest": true,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 4,
@@ -46,7 +97,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-1.png?alt=media&token=74f43f5b-b50b-4315-a723-b5c017200876",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 5,
@@ -58,7 +126,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-2.png?alt=media&token=7e07d453-a7f5-4b54-9266-e62f415e31cf",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 6,
@@ -70,7 +155,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-3.png?alt=media&token=1af0d696-d599-47d5-882a-479b9c88a306",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 7,
@@ -82,7 +184,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-1.png?alt=media&token=74f43f5b-b50b-4315-a723-b5c017200876",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 8,
@@ -94,7 +213,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-2.png?alt=media&token=7e07d453-a7f5-4b54-9266-e62f415e31cf",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 9,
@@ -106,7 +242,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/events%2Fnews-event-3.png?alt=media&token=1af0d696-d599-47d5-882a-479b9c88a306",
       "isNewest": false,
-      "isEvent": true
+      "isEvent": true,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 10,
@@ -118,7 +271,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-1.png?alt=media&token=fa182207-793f-4cb8-b22c-8a21e2baa62f",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 11,
@@ -130,7 +300,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-2.png?alt=media&token=4d37fc67-04ce-42db-b83d-173ce197413c",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 12,
@@ -142,7 +329,24 @@
       "category": "TIN NỘI BỘ",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-3.png?alt=media&token=c1d3b6a5-9b85-4091-aa46-a8025a9cd748",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 13,
@@ -154,7 +358,24 @@
       "category": "METAVERSE",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-4.png?alt=media&token=df6d85c5-2468-426d-8d63-a8682ab61b29",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 14,
@@ -166,7 +387,24 @@
       "category": "METAVERSE",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-5.png?alt=media&token=76bfa671-196c-4908-b24e-e178d756d84c",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 15,
@@ -178,7 +416,24 @@
       "category": "METAVERSE",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-6.png?alt=media&token=3c7d1a99-87fd-4c13-9b84-86d548a8379f",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 16,
@@ -190,7 +445,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-7.png?alt=media&token=05c04442-1450-4807-83a9-747e13090788",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 17,
@@ -202,7 +474,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-8.png?alt=media&token=21499a74-cf9e-4892-9e78-0941b3de01a3",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 18,
@@ -214,7 +503,24 @@
       "category": "BLOCKCHAIN",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-1.png?alt=media&token=fa182207-793f-4cb8-b22c-8a21e2baa62f",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 19,
@@ -226,7 +532,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-2.png?alt=media&token=4d37fc67-04ce-42db-b83d-173ce197413c",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 20,
@@ -238,7 +561,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-3.png?alt=media&token=c1d3b6a5-9b85-4091-aa46-a8025a9cd748",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 21,
@@ -250,7 +590,24 @@
       "category": "GAME NFT",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-4.png?alt=media&token=df6d85c5-2468-426d-8d63-a8682ab61b29",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 22,
@@ -262,7 +619,24 @@
       "category": "PHÁT TRIỂN PHẦN MỀM",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-5.png?alt=media&token=76bfa671-196c-4908-b24e-e178d756d84c",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 23,
@@ -274,7 +648,24 @@
       "category": "PHÁT TRIỂN PHẦN MỀM",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-8.png?alt=media&token=21499a74-cf9e-4892-9e78-0941b3de01a3",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 24,
@@ -286,7 +677,24 @@
       "category": "PHÁT TRIỂN PHẦN MỀM",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-6.png?alt=media&token=3c7d1a99-87fd-4c13-9b84-86d548a8379f",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     },
     {
       "id": 25,
@@ -298,7 +706,24 @@
       "category": "PHÁT TRIỂN PHẦN MỀM",
       "image": "https://firebasestorage.googleapis.com/v0/b/battechweb.appspot.com/o/list%2Fnews-item-7.png?alt=media&token=05c04442-1450-4807-83a9-747e13090788",
       "isNewest": false,
-      "isEvent": false
+      "isEvent": false,
+      "content": [
+        {
+          "contentTitle": "Chuyển đổi số trong ngân hàng là gì?",
+          "contentDesc": "Ngành ngân hàng là một trong những ngành có khả năng chống thay đổi cao nhất khi nói đến số hóa. Trước đây, điều này có thể hiểu được do tính nhạy cảm của các dịch vụ ngân hàng và nhu cầu tương tác trực tiếp đối với những việc như mở tài khoản hoặc vay tiền. Tuy nhiên, trong những năm gần đây đã có sự thay đổi trong kỳ vọng và hành vi của khách hàng, với ngày càng nhiều người thực hiện các giao dịch ngân hàng trực tuyến hoặc thông qua các ứng dụng dành cho thiết bị di động. Kết quả là, các ngân hàng đã phải thích nghi hoặc có nguy cơ bị bỏ lại phía sau. Quá trình chuyển đổi kỹ thuật số trong lĩnh vực ngân hàng này đã diễn ra được vài năm nay và không có dấu hiệu chậm lại. Các ngân hàng liên tục phải cập nhật hệ thống và quy trình của họ để theo kịp các xu hướng công nghệ mới nhất. Ngoài ra, họ chịu áp lực phải cung cấp trải nghiệm liền mạch cho khách hàng trên tất cả các kênh, cho dù đó là trực tiếp, trực tuyến hay thông qua ứng dụng dành cho thiết bị di động. Tin tốt là, bất chấp những thách thức, các ngân hàng đang bắt đầu thực hiện chuyển đổi kỹ thuật số và đang gặt hái những lợi ích về việc tăng sự hài lòng và lòng trung thành của khách hàng.",
+          "contentImg": "/images/news-details-1.png"
+        },
+        {
+          "contentTitle": "Lợi ích của số hóa trong ngành ngân hàng",
+          "contentDesc": "Ngân hàng chuyển đổi số mang lại nhiều lợi ích cho cả ngân hàng và khách hàng. Dưới đây là một số lợi thế tốt nhất của nó:",
+          "contentImg": "/images/news-details-2.png"
+        },
+        {
+          "contentTitle": "Tiết kiệm chi phí",
+          "contentDesc": "Các ngân hàng truyền thống từ lâu đã dựa vào một hệ thống kiểm tra và số dư phức tạp để xử lý các giao dịch và quản lý tài khoản. Tuy nhiên, hệ thống này không hiệu quả và tốn kém, đồng thời có thể khiến các ngân hàng dễ mắc phải các sai sót tài chính. Phần mềm ngân hàng số cung cấp giải pháp thay thế hiệu quả hơn bằng cách tự động hóa nhiều quy trình liên quan đến giao dịch. Quá trình tự động hóa này có thể giảm đáng kể thời gian và nguồn lực cần thiết để xử lý các giao dịch, giảm thiểu nguy cơ xảy ra những sai lầm tốn kém. Ngoài ra, các hệ thống ngân hàng kỹ thuật số cung cấp khả năng hiển thị thời gian thực vào hoạt động của tài khoản, giúp các ngân hàng dễ dàng xác định và ngăn chặn gian lận hơn. Do đó, số hóa có thể giúp các ngân hàng cải thiện lợi nhuận bằng cách giảm chi phí hoạt động và tăng cường bảo mật.",
+          "contentImg": "/images/news-details-1.png"
+        }
+      ]
     }
   ],
   "jobs": [
@@ -311,7 +736,53 @@
       "address": "Hà Nội",
       "date": "28/10/2022",
       "group": "Product Design",
-      "type": "Fulltime"
+      "type": "Fulltime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 2,
