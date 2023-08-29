@@ -793,7 +793,53 @@
       "address": "Hà Nội",
       "date": "28/10/2022",
       "group": "HR",
-      "type": "Parttime"
+      "type": "Parttime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 3,
@@ -804,7 +850,53 @@
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
       "group": "Tester",
-      "type": "Parttime"
+      "type": "Parttime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 4,
@@ -815,7 +907,53 @@
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
       "group": "Frontend",
-      "type": "Fulltime"
+      "type": "Fulltime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 5,
@@ -826,7 +964,53 @@
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
       "group": "Backend",
-      "type": "Fulltime"
+      "type": "Fulltime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 6,
@@ -837,7 +1021,53 @@
       "address": "Hà Nội",
       "date": "28/10/2022",
       "group": "Product Design",
-      "type": "Intern"
+      "type": "Intern",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 7,
@@ -848,7 +1078,53 @@
       "address": "Hà Nội",
       "date": "28/10/2022",
       "group": "HR",
-      "type": "Intern"
+      "type": "Intern",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 8,
@@ -859,7 +1135,53 @@
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
       "group": "Tester",
-      "type": "Parttime"
+      "type": "Parttime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 9,
@@ -870,7 +1192,53 @@
       "address": "Hà Nội",
       "date": "28/10/2022",
       "group": "Frontend",
-      "type": "Fulltime"
+      "type": "Fulltime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     },
     {
       "id": 10,
@@ -881,7 +1249,53 @@
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
       "group": "Backend",
-      "type": "Fulltime"
+      "type": "Fulltime",
+      "content": [
+        {
+          "title": "Mô tả công việc",
+          "list": [
+            "Lập trình ứng dụng, chức năng hệ thống với NodeJS",
+            "Phân tích yêu cầu, thiết kế hệ thống, phát triển các webservice và frontend theo mô hình Microservice bằng NodeJs và các framework NodeJs.",
+            "Cập nhật các kiến thức mới, công nghệ mới, duy trì cho website, sản phẩm, ứng dụng được hoạt động ổn định và ngày càng tối ưu hơn.",
+            "Thực hiện các công việc khác liên quan đến bảo vệ, bảo mật dữ liệu của sản phẩm.",
+            "Tham gia các công đoạn tìm hiểu yêu cầu, phân tích, thiết kế, nghiên cứu công nghệ khi được phân công.",
+            "Làm việc theo sự phân công của Trưởng nhóm/ Quản lý dự án, phối hợp giữa các nhóm để phát triển sản phẩm."
+          ]
+        },
+        {
+          "title": "Yêu cầu công việc",
+          "list": [
+            "Tốt nghiệp Cao đẳng, Đại học các chuyên ngành CNTT, Khoa học máy tính,… hoặc liên quan.",
+            "Có từ 1 năm kinh nghiệm lập trình với NodeJS, sử dụng một trong các framework/thư viện như Express.js, Meteor, socket.io, redis…",
+            "Có kinh nghiệm làm việc với REST API",
+            "Có kinh nghiệm với MongoDB, Database Postgresql, Redis.",
+            "Viết code rõ ràng, dễ hiểu, dễ bảo trì, tuân thủ chặt chẽ coding convention.",
+            "Sử dụng thành thạo các công cụ quản lý code như SVN, Github.",
+            "Có khả năng làm việc độc lập và làm việc nhóm, chịu được áp lực cao.",
+            "Có khả năng tư duy và thuật toán tốt, phân tích và giải quyết vấn đề."
+          ]
+        },
+        {
+          "title": "Lý do đồng hành với BATTECH",
+          "list": [
+            "Làm việc cùng những đồng nghiệp trẻ, các Leader và Mentor hỗ trợ sát sao, nhiệt tình.",
+            "Văn hóa học tập mạnh mẽ và thúc đẩy phát triển",
+            "Quy trình phát triển phần mềm chặt chẽ",
+            "Tham gia vào các dự án lớn, tiếp cận, trực tiếp xây dựng và làm chủ những sản phẩm trên nền công nghệ mới nhất.",
+            "Được tư vấn, đồng hành và hỗ trợ phát triển sự nghiệp cùng với hệ thống career path (phát triển theo hướng chuyên gia hoặc hướng quản lý) đã được nghiên cứu, thử nghiệm trong nhiều năm",
+            "Được định hướng mục tiêu cá nhân, nhóm và tổ chức",
+            "Trao quyền làm chủ",
+            "Tham gia khóa học miễn phí, trợ cấp các khóa học chuyên nghành.",
+            "Thu nhập up to $1500 cùng các khoản trợ cấp, phụ cấp khác (ăn trưa, đi lại, tiếng Nhật, chứng chỉ IT,..v.v…)",
+            "Lương tháng 13 & thưởng hiệu quả sản xuất kinh doanh, 6 khoản thưởng cho các ngày Lễ khác trong năm. Tổng thu nhập lên đến 15 tháng lương/ năm.",
+            "Review thu nhập: 2 lần/năm"
+          ]
+        },
+        {
+          "title": "Thông tin liên hệ",
+          "list": ["Email: tuyendung@battech.com", "Hotline: 0123456789"]
+        }
+      ]
     }
   ],
   "workLocations": [
