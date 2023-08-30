@@ -735,7 +735,7 @@
       "wage": "Thỏa thuận",
       "address": "Hà Nội",
       "date": "28/10/2022",
-      "group": "Product Design",
+      "category": "Product Design",
       "type": "Fulltime",
       "content": [
         {
@@ -792,7 +792,7 @@
       "wage": "Thỏa thuận",
       "address": "Hà Nội",
       "date": "28/10/2022",
-      "group": "HR",
+      "category": "HR",
       "type": "Parttime",
       "content": [
         {
@@ -849,7 +849,7 @@
       "wage": "Thỏa thuận",
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
-      "group": "Tester",
+      "category": "Tester",
       "type": "Parttime",
       "content": [
         {
@@ -906,7 +906,7 @@
       "wage": "20 tr",
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
-      "group": "Frontend",
+      "category": "Frontend",
       "type": "Fulltime",
       "content": [
         {
@@ -963,7 +963,7 @@
       "wage": "15 tr",
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
-      "group": "Backend",
+      "category": "Backend",
       "type": "Fulltime",
       "content": [
         {
@@ -1020,7 +1020,7 @@
       "wage": "Thỏa thuận",
       "address": "Hà Nội",
       "date": "28/10/2022",
-      "group": "Product Design",
+      "category": "Product Design",
       "type": "Intern",
       "content": [
         {
@@ -1077,7 +1077,7 @@
       "wage": "Thỏa thuận",
       "address": "Hà Nội",
       "date": "28/10/2022",
-      "group": "HR",
+      "category": "HR",
       "type": "Intern",
       "content": [
         {
@@ -1134,7 +1134,7 @@
       "wage": "Thỏa thuận",
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
-      "group": "Tester",
+      "category": "Tester",
       "type": "Parttime",
       "content": [
         {
@@ -1191,7 +1191,7 @@
       "wage": "15 tr",
       "address": "Hà Nội",
       "date": "28/10/2022",
-      "group": "Frontend",
+      "category": "Frontend",
       "type": "Fulltime",
       "content": [
         {
@@ -1248,7 +1248,7 @@
       "wage": "15 tr",
       "address": "Hồ Chí Minh",
       "date": "28/10/2022",
-      "group": "Backend",
+      "category": "Backend",
       "type": "Fulltime",
       "content": [
         {
